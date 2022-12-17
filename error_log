@@ -1,0 +1,5 @@
+[06-Aug-2022 11:06:12 UTC] PHP Fatal error:  Cannot redeclare PembayaranModel::getPembayaran() in /home1/flockbas/bpp-smkn1labangka.my.id/application/models/PembayaranModel.php on line 14
+[06-Aug-2022 11:06:54 UTC] PHP Fatal error:  Cannot redeclare PembayaranModel::getTahunAjaran() in /home1/flockbas/bpp-smkn1labangka.my.id/application/models/PembayaranModel.php on line 58
+[06-Aug-2022 11:07:32 UTC] PHP Fatal error:  Cannot redeclare PembayaranModel::getLaporan() in /home1/flockbas/bpp-smkn1labangka.my.id/application/models/PembayaranModel.php on line 49
+[06-Aug-2022 12:32:06 UTC] PHP Fatal error:  Cannot redeclare Admin::lunas() in /home1/flockbas/bpp-smkn1labangka.my.id/application/controllers/Admin.php on line 495
+[06-Aug-2022 12:35:53 UTC] PHP Fatal error:  Cannot redeclare Admin::lunas() in /home1/flockbas/bpp-smkn1labangka.my.id/application/controllers/Admin.php on line 495
